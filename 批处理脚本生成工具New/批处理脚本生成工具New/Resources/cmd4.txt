@@ -1,0 +1,2 @@
+CreateObject
+("SAPI.SpVoice").Speak "欢迎人间人爱，花见花开，车见车爆胎的主人上线！"
